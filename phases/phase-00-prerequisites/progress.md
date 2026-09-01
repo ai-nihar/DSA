@@ -6,7 +6,6 @@
 ## Goals
 - Understand algorithmic analysis (time & space).
 - Refresh Java essentials required for competitive coding and LeetCode.
-- Establish repo structure and solution templates.
 
 ---
 ## Topics covered
