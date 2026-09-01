@@ -1,26 +1,8 @@
-# DSA-Progress
+#Quick update
 
-Personal DSA learning tracker and solutions repository.
-
----
-## Structure
-- `phases/` — learning phases (phase-00-prerequisites, phase-01-arrays, ...)
-    - each phase contains:
-        - `progress.md` — summary of what was learned in that phase
-        - `notes/` — concept notes
-        - `solutions/` — solved problems (one folder per problem: `<id>-<kebab-name>/`)
-            - `solution.java` and `README.md` in each problem folder
-
----
-## How I use this repo
-1. Work on a topic (phase). Update `phases/phase-XX-.../progress.md` with short summary and links.
-2. For each solved problem create a new folder under `solutions/`:
-    - `<leetcode-id>-<kebab-slug>/solution.java`
-    - `<leetcode-id>-<kebab-slug>/README.md`
-3. Commit with message: `feat: add solution <leetcode-id> - <title>`
-
----
-## Conventions
-- Java solutions go in `solution.java`.
-- Problem folder names use kebab-case: `1480-running-sum`.
-- Each `README.md` in a problem folder must include: Problem link, Approach summary, Complexity, Edge cases.
+i had started this repo 11 months ago with a vision of decent DSA journey that i would share on github
+but as i failed to maintain consistency or even start as i just stopped after prerequisite commit
+now i am starting it over
+i wasted my august 2026 just searching for good companies that offer internship but did not do anything meaningful in this time
+so this month (september 2026) i am going all in for dsa i will share everything from where did i regain my programming language grasp to which videos i followed and what problems i practiced
+see you very soon
